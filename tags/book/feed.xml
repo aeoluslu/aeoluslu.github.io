@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Book on Glen&#39;s blog</title>
+    <link>http://127.0.0.1:1313/tags/book/</link>
+    <description>Recent content in Book on Glen&#39;s blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Wed, 14 Nov 2018 12:13:19 +0800</lastBuildDate>
+    
+	<atom:link href="http://127.0.0.1:1313/tags/book/feed.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>工業大數據 第一章 導論</title>
+      <link>http://127.0.0.1:1313/post/big_data_01/</link>
+      <pubDate>Wed, 14 Nov 2018 12:13:19 +0800</pubDate>
+      
+      <guid>http://127.0.0.1:1313/post/big_data_01/</guid>
+      <description>導論 洞察未見的需求 1、傳統製造業利用物聯網(IOT)和大數據分析(Big Data Analyitcs)的智慧化轉型 2、工業4.0:不再以製造端的生產</description>
+    </item>
+    
+  </channel>
+</rss>
