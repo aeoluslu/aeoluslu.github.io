@@ -3,80 +3,80 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://127.0.0.1:1313/post/big_data_01/</loc>
+    <loc>https://aeoluslu.github.io/post/big_data_01/</loc>
     <lastmod>2018-11-14T12:13:19+08:00</lastmod>
   </url>
   
   <url>
-    <loc>http://127.0.0.1:1313/about/</loc>
+    <loc>https://aeoluslu.github.io/about/</loc>
     <lastmod>2016-03-20T23:28:02+08:00</lastmod>
   </url>
   
   <url>
-    <loc>http://127.0.0.1:1313/post/first/</loc>
+    <loc>https://aeoluslu.github.io/post/first/</loc>
     <lastmod>2016-03-20T12:13:19+08:00</lastmod>
   </url>
   
   <url>
-    <loc>http://127.0.0.1:1313/post/hello-hugo/</loc>
+    <loc>https://aeoluslu.github.io/post/hello-hugo/</loc>
     <lastmod>2016-02-20T15:34:05+08:00</lastmod>
   </url>
   
   <url>
-    <loc>http://127.0.0.1:1313/tags/bar/</loc>
+    <loc>https://aeoluslu.github.io/tags/bar/</loc>
     <lastmod>2018-11-14T12:13:19+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://127.0.0.1:1313/tags/book/</loc>
+    <loc>https://aeoluslu.github.io/tags/book/</loc>
     <lastmod>2018-11-14T12:13:19+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://127.0.0.1:1313/categories/</loc>
+    <loc>https://aeoluslu.github.io/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://127.0.0.1:1313/tags/foo/</loc>
+    <loc>https://aeoluslu.github.io/tags/foo/</loc>
     <lastmod>2016-03-20T12:13:19+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://127.0.0.1:1313/feed.xml</loc>
+    <loc>https://aeoluslu.github.io/feed.xml</loc>
     <lastmod>2018-11-14T12:13:19+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://127.0.0.1:1313/post/</loc>
+    <loc>https://aeoluslu.github.io/post/</loc>
     <lastmod>2018-11-14T12:13:19+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://127.0.0.1:1313/tags/</loc>
+    <loc>https://aeoluslu.github.io/tags/</loc>
     <lastmod>2018-11-14T12:13:19+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://127.0.0.1:1313/tags/test/</loc>
+    <loc>https://aeoluslu.github.io/tags/test/</loc>
     <lastmod>2016-02-20T15:34:05+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://127.0.0.1:1313/categories/%E6%80%9D%E8%80%83%E6%84%9F%E6%82%9F/</loc>
+    <loc>https://aeoluslu.github.io/categories/%E6%80%9D%E8%80%83%E6%84%9F%E6%82%9F/</loc>
     <lastmod>2016-02-20T15:34:05+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://127.0.0.1:1313/categories/%E6%8A%80%E8%A1%93%E6%96%87%E7%AB%A0/</loc>
+    <loc>https://aeoluslu.github.io/categories/%E6%8A%80%E8%A1%93%E6%96%87%E7%AB%A0/</loc>
     <lastmod>2018-11-14T12:13:19+08:00</lastmod>
     <priority>0</priority>
   </url>

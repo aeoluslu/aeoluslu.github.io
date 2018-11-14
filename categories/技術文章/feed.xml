@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>技術文章 on Glen&#39;s blog</title>
-    <link>http://127.0.0.1:1313/categories/%E6%8A%80%E8%A1%93%E6%96%87%E7%AB%A0/</link>
+    <link>https://aeoluslu.github.io/categories/%E6%8A%80%E8%A1%93%E6%96%87%E7%AB%A0/</link>
     <description>Recent content in 技術文章 on Glen&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <lastBuildDate>Wed, 14 Nov 2018 12:13:19 +0800</lastBuildDate>
     
-	<atom:link href="http://127.0.0.1:1313/categories/%E6%8A%80%E8%A1%93%E6%96%87%E7%AB%A0/feed.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://aeoluslu.github.io/categories/%E6%8A%80%E8%A1%93%E6%96%87%E7%AB%A0/feed.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>工業大數據 第一章 導論</title>
-      <link>http://127.0.0.1:1313/post/big_data_01/</link>
+      <link>https://aeoluslu.github.io/post/big_data_01/</link>
       <pubDate>Wed, 14 Nov 2018 12:13:19 +0800</pubDate>
       
-      <guid>http://127.0.0.1:1313/post/big_data_01/</guid>
+      <guid>https://aeoluslu.github.io/post/big_data_01/</guid>
       <description>導論 洞察未見的需求 1、傳統製造業利用物聯網(IOT)和大數據分析(Big Data Analyitcs)的智慧化轉型 2、工業4.0:不再以製造端的生產</description>
     </item>
     
     <item>
       <title>first</title>
-      <link>http://127.0.0.1:1313/post/first/</link>
+      <link>https://aeoluslu.github.io/post/first/</link>
       <pubDate>Sun, 20 Mar 2016 12:13:19 +0800</pubDate>
       
-      <guid>http://127.0.0.1:1313/post/first/</guid>
+      <guid>https://aeoluslu.github.io/post/first/</guid>
       <description>主题概况 Balalalalala&amp;hellip; Balalalalala&amp;hellip; 安装指南 aaaaaaa bbbbbbb ccccccc 安装 bold 启用 print(&#39;hello world!&#39;) 更新 Blockquotes are very handy in email to emulate reply text. This line is part of the same quote. 配置指南 Tables Are Cool col 3 is right-aligned $1600 col 2 is centered $12 zebra stripes are neat $1 属性 说明 First ordered list item</description>
     </item>
     
