@@ -6,10 +6,19 @@
     <description>Recent content in Book on Glen&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 14 Nov 2018 12:13:19 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 14 Nov 2018 17:13:19 +0800</lastBuildDate>
     
 	<atom:link href="https://aeoluslu.github.io/tags/book/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>第二章 工業4.0的大數據環境</title>
+      <link>https://aeoluslu.github.io/post/big_data_02/</link>
+      <pubDate>Wed, 14 Nov 2018 17:13:19 +0800</pubDate>
+      
+      <guid>https://aeoluslu.github.io/post/big_data_02/</guid>
+      <description>大數據的4V 量(Volume):非結構化資料的超大規模和成長速度 速度(Velocity):及時分析資料而非批量分析、 多樣性(Variety)</description>
+    </item>
     
     <item>
       <title>工業大數據 第一章 導論</title>

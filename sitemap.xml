@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://aeoluslu.github.io/post/big_data_02/</loc>
+    <lastmod>2018-11-14T17:13:19+08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://aeoluslu.github.io/post/big_data_01/</loc>
     <lastmod>2018-11-14T12:13:19+08:00</lastmod>
   </url>
@@ -24,13 +29,13 @@
   
   <url>
     <loc>https://aeoluslu.github.io/tags/bar/</loc>
-    <lastmod>2018-11-14T12:13:19+08:00</lastmod>
+    <lastmod>2018-11-14T17:13:19+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://aeoluslu.github.io/tags/book/</loc>
-    <lastmod>2018-11-14T12:13:19+08:00</lastmod>
+    <lastmod>2018-11-14T17:13:19+08:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -47,19 +52,19 @@
   
   <url>
     <loc>https://aeoluslu.github.io/feed.xml</loc>
-    <lastmod>2018-11-14T12:13:19+08:00</lastmod>
+    <lastmod>2018-11-14T17:13:19+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://aeoluslu.github.io/post/</loc>
-    <lastmod>2018-11-14T12:13:19+08:00</lastmod>
+    <lastmod>2018-11-14T17:13:19+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://aeoluslu.github.io/tags/</loc>
-    <lastmod>2018-11-14T12:13:19+08:00</lastmod>
+    <lastmod>2018-11-14T17:13:19+08:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -77,7 +82,7 @@
   
   <url>
     <loc>https://aeoluslu.github.io/categories/%E6%8A%80%E8%A1%93%E6%96%87%E7%AB%A0/</loc>
-    <lastmod>2018-11-14T12:13:19+08:00</lastmod>
+    <lastmod>2018-11-14T17:13:19+08:00</lastmod>
     <priority>0</priority>
   </url>
   
